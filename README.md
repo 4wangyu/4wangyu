@@ -1,6 +1,6 @@
 ### Hi there 👋. Here lives a :neutral_face: with a :computer:.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4wangyu&layout=compact)](https://github.com/4wangyu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4wangyu&layout=compact&hide=css,html)](https://github.com/4wangyu)
 
 <!--
 **4wangyu/4wangyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
